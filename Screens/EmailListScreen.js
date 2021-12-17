@@ -62,7 +62,7 @@ const styles = StyleSheet.create({
         flex: 1,
     },
     pesquisarContainer:{
-        marginTop: 50,
+        marginTop: 55,
         height: 60,
         padding: 5,
         flexDirection: 'row',
