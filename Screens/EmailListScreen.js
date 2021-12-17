@@ -70,6 +70,7 @@ const styles = StyleSheet.create({
     pesquisar:{
         flex: 1,
         height: 40,
+        paddingStart: 10,
         borderWidth: 1,
         borderColor: 'gray',
         borderRadius: 20,
